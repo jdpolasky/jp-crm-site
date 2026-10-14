@@ -1,0 +1,7 @@
+# jp-crm-site
+
+Home page, privacy policy, and terms for JP CRM, a personal single-user app. No app code here.
+
+## Who made this
+
+Built by Joshua Polasky, a strategy and operations consultant. Business first, then AI. If you're an owner or leader who wants help figuring out where AI fits in your business, get in touch: joshua.polasky@gmail.com or [LinkedIn](https://linkedin.com/in/joshuapolasky).
